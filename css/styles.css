@@ -586,6 +586,8 @@ img {
 }
 .footer-flex {
   display: flex;
+  /* align-items: baseline; */
+  
 }
 .footer .logo-second-part {
   color: var(--main-white-color);
@@ -622,7 +624,7 @@ img {
 }
 .join {
   margin-left: 70px;
-  padding-top: 15px;
+  padding-top: 15.5px;
 }
 .footer-appeal {
   display: block;
@@ -652,7 +654,7 @@ img {
 }
 .subscribe-form {
   margin-left: auto;
-  padding-top: 15px;
+  padding-top: 15.5px;
 }
 .subscribe {
   display: flex;
